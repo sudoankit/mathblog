@@ -1,0 +1,22 @@
+# Site settings
+title: Pizza Theory 
+email: ankitpanda1014@gmail.com
+
+baseurl: ""
+url: "http://sudoankit.github.io/math/"
+twitter_username: sudoankit
+github_username:  sudoankit
+
+
+future: true
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
