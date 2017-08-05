@@ -16,6 +16,7 @@ body {
   background-color: #fdfdfd;
 }
 
+
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
 a         { color: #2a7ae2; text-decoration: none; }
@@ -407,4 +408,88 @@ a:visited { color: #205caa; }
     width: auto;
     margin: 0 0 15px; }
 
+}
+
+
+/*More custom stuff for mathematical acceptance. lol.*/
+
+/*Some CSS visuals*/
+
+
+.question {
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: -5px;
+  border: 1px solid black ;
+  background: #edf6f9;
+  
+}
+
+.answer {
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: -5px;
+  border: 1px solid black ;
+  background: #dcfccf;
+  
+}
+
+/* theorem.css from drz.ac , thanks!*/
+
+.theorem {
+  text-align: justify;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border: 1px solid black ;
+  background: #f7e5ff;
+  display: block;
+  margin: 12px 0;
+}
+
+.lemma {
+  text-align: justify;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border: 1px solid black ;
+  background: #d3ffd4;
+  display: block;
+  margin: 12px 0;
+}
+
+.proof {
+    display: block;
+    margin: 12px 0;
+    font-style: normal;
+}
+.proof:before {
+    content: "Proof.";
+    font-style: italic;
+}
+.proof:after {
+    content: "\25FC";
+    float:right;
+}
+.definition {
+  text-align: justify;
+  font-weight: 400;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  border: 1px solid black ;
+  background: #edf6f9;
+  display: block;
+  margin: 12px 0;
+}
+.definition:before {
+    font-style: normal;
 }

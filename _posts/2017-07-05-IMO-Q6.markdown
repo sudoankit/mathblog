@@ -1,0 +1,30 @@
+---
+layout: post
+comments: true
+title: "IMO 1988 Question 6"
+excerpt: "A solution for the famous Question.6 of the Australian IMO 1988 using Vieta jumping."
+date: 2017-07-05 19:52:01 +0530
+mathjax: true
+---
+
+One of my favourite math olympiad question.
+
+<strong>The IMO 1988 Q.6.</strong>
+
+<div class="question">
+Q.6 Let $a$ and $b$ be positive integers such that $ab + 1$ divides $a^2 + b^2$. Show that $\frac{a^2+b^2}{ab+1}$ is the square of an integer.
+</div>
+<div class="answer" >
+To answer this we first try out finding a pattern. Number theory is easier when patterns are found.  So let's go forward and make some rough assumptions.
+
+Let 
+<center>$$f(a,b) = \frac{a^2+b^2}{ab+1} $$</center>
+Now let's keep substituting random integers for $a$ and $b$. I tried with small numbers and got these,
+<center>
+$$f(0,0) = 0 = 0^2 $$
+$$f(1,0) = 1 = 1^2 $$ 
+$$f(0,1) = 1 = 1^2 $$
+$$f(2,0) = 2 = 2^2 $$
+</center>
+
+</div>
