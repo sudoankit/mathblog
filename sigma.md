@@ -24,9 +24,14 @@ The symbol '<font color="gold">&#x2605;</font>' means <u>legendary</u> which you
 ### Books <!-- Of course no affiliate links at all! :) --> 
 ---
 
+These are some books I have read and find them worth.
 
-
-
-### Documentries <!-- With Jalapenos, cheese and oregano! also the tomato one tastes okay but any movie is better with Schezwan Mulan Sauce!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
----
+- Linear Algebra Done Right, Sheldon Axler
+- Principles of Mathematical Analysis, Walter Rudin
+- Calculus, M. Spivak
+- A First Course in Complex analysis, Dennis G. Zill and Patrick Shanahan
+- A Book of Abstract Algebra, Charles Pinter
+- The Princeton Companion to Mathematics,  Timothy Gowers et al
+- How to solve it, G Pólya
+- Elementary Number Theory, David M Burton
 
