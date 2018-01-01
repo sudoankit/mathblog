@@ -162,7 +162,7 @@ $$\theta = \frac \pi 2$$
 </div>
 <strong>Answer.</strong> 
 <div class="imgcap">
-<img src="/assets/lagragian/surfa.png" style="border: solid; width:75%;">
+<img src="/mathblog/assets/lagragian/surfa.png" style="border: solid; width:75%;">
 <div class="thecap" style="text-align:center">
 Look for the $\nabla \perp S$. Other's can't be possible.
 </div>
