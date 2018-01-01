@@ -25,7 +25,7 @@ Let's develop some intuition about them.
 ## The River Bed
 
 <div class="imgcap">
-<img src="/assets/lagragian/riverbed.svg" style="border: solid; ; width:100%;">
+<img src="/mathblog/assets/lagragian/riverbed.svg" style="border: solid; ; width:100%;">
 <div class="thecap" style="text-align:center">
 You saw your friend at the river bed after 10 years. ( it happens all the time doesn't it? ) The friend calls you but you are very very thristy. You have to optimize your way. Drink some water and then proceed to meet him.
 </div>
@@ -47,7 +47,7 @@ meet our friend ( because the 'friend' has to leave...). Let's look closely at t
 
 
 <div class="imgcap">
-<img src="/assets/lagragian/hitpoints-01.png" style="border: solid; ; width:100%;">
+<img src="/mathblog/assets/lagragian/hitpoints-01.png" style="border: solid; ; width:100%;">
 <div class="thecap" style="text-align:center">
 The point of intersection of the ellipse and the riverbed curve $f(x,y)$. They have a common tangent. The normals are also shown. 
 </div>
@@ -97,7 +97,7 @@ An example will make this much more clear.
 <br>
 <strong>Answer.</strong> 
 <div class="imgcap">
-<img src="/assets/lagragian/lagrange1.jpg" style="border: solid; width:60%;">
+<img src="/mathblog/assets/lagragian/lagrange1.jpg" style="border: solid; width:60%;">
 <div class="thecap" style="text-align:center">
 Plot of $f(x,y) = x^2 + y^2 + 1$ and $g(x,y) = x + y - 1 = 0$.
 </div>
@@ -121,7 +121,7 @@ I hope this example made the concept much clear! Let's move forward and discuss 
 ## The Necklace
 
 <div class="imgcap">
-<img src="/assets/lagragian/necklace.png" style="border: solid; ; width:100%;">
+<img src="/mathblog/assets/lagragian/necklace.png" style="border: solid; ; width:100%;">
 <div class="thecap" style="text-align:center">
 A necklace as a curved fucntion. At different time $t$, the bead is at different points $a,b,c,d$. By the figure we can verify points $b$ and $c$ are the maxima and minima points. 
 </div>
@@ -155,7 +155,7 @@ $$\theta = \frac \pi 2$$
 <strong>Example 2.</strong> Let $S$ be a surface in 3-dimensional space. Look below. Find the maximum value attained by $\phi$ on $S$.  
 
 <div class="imgcap">
-<img src="/assets/lagragian/surf.png" style="border: solid; width:75%;">
+<img src="/mathblog/assets/lagragian/surf.png" style="border: solid; width:75%;">
 <div class="thecap" style="text-align:center">
 3-dimensional plot of $S$. Try finding where the maxima might lie.
 </div>
