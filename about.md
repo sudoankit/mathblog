@@ -11,13 +11,14 @@ p {
 }
 </style>
 
-Hi, I'm $\Lambda$n$\kappa$it Panda.
 
-My interests include algrebraic topology $\cup$ differential topology $\cup$ number theory $\cup$ Reimann geometry $\cup$ partial differential equations in pure mathematics. 
+My CV is published online <a href="https://sudoankit.github.io/resume/">here.</a> 
 
-I also do applied mathematics in areas of computational fluid dynamics $\cup$ astronomy $\cup$ physics $\cup$ biology. 
+<hr>
 
-This blog is about all mathematics I do and some get interesting which I post here. ( you can go back to my homepage by clicking home above, a guidance arrow has been drawn for your convenience. )
+Hi, I'm Ankit Panda.
+
+This blog is about mathematics and simulations of life, love and progress. I sometimes add a bit of philosophy and art in between as mathematics at deep starts to feel like philosophy and look like art.
 
 <hr>
 
@@ -35,9 +36,6 @@ $$i \cdot z_2(\theta, \xi, \kappa_2) = e^{ \frac{2\pi i k_2}{n}} \sinh(\theta + 
 
 <hr>
 
-My CV is published online <a href="https://sudoankit.github.io/resume/">here.</a> 
-
-<hr>
 Also, 
 > $\int$(Mathematics + Science + Engineering + Pizza) $=$ Future.  
 > -- A.

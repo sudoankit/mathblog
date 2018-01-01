@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: draft
 comments: true
 title: "IMO 1988 Question 6"
 excerpt: "A solution for the famous Question.6 of the Australian IMO 1988 using Vieta jumping."
@@ -26,5 +26,6 @@ $$f(1,0) = 1 = 1^2 $$
 $$f(0,1) = 1 = 1^2 $$
 $$f(2,0) = 2 = 2^2 $$
 </center>
+We find a pattern now.
 
 </div>
