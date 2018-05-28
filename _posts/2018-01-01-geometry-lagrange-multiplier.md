@@ -129,12 +129,12 @@ A necklace as a curved fucntion. At different time $t$, the bead is at different
 
 This section is more on the the physical approach in understanding why we don't consider the tangent but the normal. 
 
-The points $a,b,c,d$ are the points where the necklace is perpendicular to the downward force and only at these points the normal reaction ( $f$ ) is balanced by the gravitional potential $\phi = mgh$.
+The points $a,b,c,d$ are the points where the necklace is perpendicular to the downward force and only at these points the normal reaction ( $F$ ) is balanced by the gravitional potential $\phi = mgh$.
 
 As it's balanced ( if not the necklace won't be parallel to the surface) we get, 
 <center>
 <div class="boxx">
-$$ \nabla_{x,y} f = \lambda \nabla_{x,y} \phi $$
+$$ \nabla_{x,y} F = \lambda \nabla_{x,y} \phi $$
 </div>
 </center>
 
