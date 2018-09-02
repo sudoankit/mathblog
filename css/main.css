@@ -2,9 +2,6 @@
 /* ----------------------------------------------------------*/
 
 
-
-
-
 * {
   margin: 0;
   padding: 0;
@@ -36,7 +33,7 @@ a:visited { color: #205caa; }
   max-width: 800px;
   padding: 0 30px;
   margin: 0 auto;
-  zoom: 1;
+  zoom: 1.14;
 }
 
 
@@ -48,7 +45,7 @@ a:visited { color: #205caa; }
 .site-header {
 
   border-top: 6px solid #205caa;
-  border-bottom: 1px solid #e8e8e8;
+  /*border-bottom: 1px solid #e8e8e8;*/
   height: 52px;
   background-color: white;
 
@@ -59,7 +56,7 @@ a:visited { color: #205caa; }
 .site-title:visited {
   display: block;
   color: #333;
-  font-size: 26px;
+  font-size: 44px;
   letter-spacing: -1px;
   float: left;
   line-height: 56px;
@@ -84,13 +81,13 @@ a:visited { color: #205caa; }
 
 .site-footer {
   border-top: 1px solid #e8e8e8;
-  padding: 30px 0;
+  padding: 15px 0;
 }
 
 .footer-heading {
   font-size: 18px;
   font-weight: 300;
-  letter-spacing: -.5px;
+  /*letter-spacing: -.5px;*/
   margin-bottom: 15px;
 }
 
@@ -124,8 +121,8 @@ a:visited { color: #205caa; }
 
 .site-footer li,
 .site-footer p {
-  font-size: 15px;
-  letter-spacing: -.3px;
+  /*font-size: 15px;*/
+  /*letter-spacing: -.3px;*/
   color: #828282;
 }
 

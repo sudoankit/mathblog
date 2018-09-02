@@ -3,10 +3,8 @@ layout: page
 title: $\Sigma^2$
 permalink: /sigma2/
 mathjax: true
-comments: true
+comments: false
 ---
-
-
 
 Welcome to $\Sigma^2$, a collection of mathematical problems, book recommendations and documentries. <!-- Awesome! Nice to check the source code. Dig deeper and you might find out something nice in here! --> 
 
@@ -53,4 +51,5 @@ These are some books I have read and find them worth.
 #### Neuroscience
 
 - An Introduction to Neural Networks, James A. Anderson ( _Neurobiology and Neurocomputingl_ )
+- Principles of Neural Design, Peter Sterling.
 
